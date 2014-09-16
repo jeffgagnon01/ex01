@@ -1,3 +1,6 @@
 ex01
 
 Ou est le pyramide?
+
+
+16-SEPT-2014 JF: Désolé, j'avais retravaillé le code en pushant l'ancienne version sur GitHub. Ci-joint ma version updaté. 
